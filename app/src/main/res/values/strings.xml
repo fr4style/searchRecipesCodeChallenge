@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Recipes</string>
+    <string name="generic_error">Generic error!</string>
+</resources>
